@@ -6,7 +6,7 @@ How do **autonomy, competence, and relatedness**—core components of SDT—pred
 
 3️⃣ Dataset
 - **Source:** Survey data collected for my Master's thesis
-- **Sample Size:** [(N = 602,69% men), aged 19-66]
+- **Sample Size:** [(N = 602, 69% men), aged 19-66]
 - **Variables:** Work satisfaction, autonomy, competence, relatedness.
 
   4️⃣  Methodology
