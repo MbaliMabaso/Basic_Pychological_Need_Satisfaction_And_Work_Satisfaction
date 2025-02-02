@@ -17,7 +17,29 @@ How do **autonomy, competence, and relatedness**—core components of SDT—pred
 2. **Structural Equation Modeling**
    - Examined the relationship between SDT variables and work satisfaction
 
-3. **Comparison to a Non-Validated Approach**
+3. **Comparison to a Non-Validated Approach (Work-Satisfaction-Analysis)*
    - Highlighted the impact of **survey quality** on model accuracy
    - Demonstrated the importance of **validating survey instruments** in predictive modeling
+
+5️⃣  Results
+- **Validated Model (Master’s Thesis):** 68% variance explained
+- **Non-Validated Model:** 23% variance explained
+- **Key Finding:** Survey validation significantly improves the **reliability and explanatory power** of predictive models
+
+  6️⃣ Tools & Technologies
+- IBM Amos and SPSS
+- Tableau (for data visualization)
+- Confirmatory Factor Analysis (CFA)
+- Structural equation modeling
+- Regression Analysis
+
+  7️⃣ Key Takeaways
+✅ **Survey validation improves model accuracy**
+✅ **Theoretical frameworks enhance predictive power**
+✅ **Data science in organizational psychology can provide actionable insights**
+
+## Citation
+If using insights from this research, please cite:
+> [Mbali Mabaso], *Basic Psychological Need Satisfaction and Work Satisfaction
+across ages: A Lifespan and Self-determination Perspective*, Master's Thesis, [University of Gothenburg], [2023]. Available upon request.
 
