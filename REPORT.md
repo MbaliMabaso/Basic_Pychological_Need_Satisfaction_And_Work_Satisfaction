@@ -14,8 +14,14 @@ How do **autonomy, competence, and relatedness**—core components of SDT—pred
    - Used IBM Amos  to test the **construct validity** of survey items
    - Established **configural and metric invariance**
   
+      ![image_url]()
+
+     
 2. **Structural Equation Modeling**
    - Examined the relationship between SDT variables and work satisfaction
+     
+  ![image_url]()
+     
 
 3. **Comparison to a Non-Validated Approach (please see Work-Satisfaction-Analysis)*
    - Highlighted the impact of **survey quality** on model accuracy
