@@ -13,13 +13,11 @@ How do **autonomy, competence, and relatedness**—core components of SDT—pred
 1. **Survey Validation with CFA**
    - Used IBM Amos  to test the **construct validity** of survey items
    - Established **configural and metric invariance**
-  
-      ![image_url]([)](https://github.com/MbaliMabaso/Basic_Pychological_Need_Satisfaction_And_Work_Satisfaction/blob/07c18fb8068b2cf72d4effb440af35a06bfb4b5a/Confirmatory%20factor%20analysis%20and%20Invariance%20testing.png)
+   ![image_url]([)](https://github.com/MbaliMabaso/Basic_Pychological_Need_Satisfaction_And_Work_Satisfaction/blob/07c18fb8068b2cf72d4effb440af35a06bfb4b5a/Confirmatory%20factor%20analysis%20and%20Invariance%20testing.png)
        
 2. **Structural Equation Modeling**
    - Examined the relationship between SDT variables and work satisfaction
-     
-  ![image_url]([)](https://github.com/MbaliMabaso/Basic_Pychological_Need_Satisfaction_And_Work_Satisfaction/blob/140d3caa359f353e7c8c798bf0a3ca30c14e05ee/SEM%20model.png)
+   ![image_url]([)](https://github.com/MbaliMabaso/Basic_Pychological_Need_Satisfaction_And_Work_Satisfaction/blob/140d3caa359f353e7c8c798bf0a3ca30c14e05ee/SEM%20model.png)
   
      
 3. **Comparison to a Non-Validated Approach (please see Work-Satisfaction-Analysis)*
