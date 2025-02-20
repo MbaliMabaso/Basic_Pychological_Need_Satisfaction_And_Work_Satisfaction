@@ -19,7 +19,7 @@ How do **autonomy, competence, and relatedness**—core components of SDT—pred
 
      
 2. **Structural Equation Modeling**
-   - Examined the relationship between SDT variables and work satisfaction
+   - Examined the relationship between SDT variables ( and work satisfaction
 ![](SEMmodel.png)
   
 3. **Comparison to a Non-Validated Approach (please see Work-Satisfaction-Analysis)*
