@@ -13,10 +13,9 @@ This cross-sectional study aims to investigate whether basic psychological need 
 
   ![](MultipleRegression.png)
   
-![image_alt]([)](https://github.com/MbaliMabaso/Basic_Pychological_Need_Satisfaction_And_Work_Satisfaction/blob/a4c52e73d7f83a2ab424d8c0ae28d06380963d0e/SimpleLinearRegression.png)
-![image_alt]([)]([https://github.com/MbaliMabaso/Basic_Pychological_Need_Satisfaction_And_Work_Satisfaction/blob/470a52d486555374f452963eeeb7e5ce36e655ef/MultipleLinearRegression.png](https://github.com/MbaliMabaso/Basic_Pychological_Need_Satisfaction_And_Work_Satisfaction/blob/151d771171eecf202a7f3028f509ae7bd5cd7174/MultipleRegression.png))
+
 - Age did not moderate the association between the satisfaction of basic psychological needs and work satisfaction.
-  ![image_alt]([)](https://github.com/MbaliMabaso/Basic_Pychological_Need_Satisfaction_And_Work_Satisfaction/blob/ccfc28282982c9400037bda26fe4191149eb6f86/ModerationTest.png)
+![](ModerationTest.png)
  
 For more information regarding the analysis, see the REPORT.md file. 'Basic_Psychological_Need_Satisfaction_And_Work_Satisfaction`.
 
