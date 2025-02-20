@@ -9,6 +9,8 @@ This cross-sectional study aims to investigate whether basic psychological need 
 - Variables included in the final model were Autonomy need satisfaction (AUT), Competence need satisfaction (COM) and Relatedness need satisfaction (REL).
 - Although AUT, COM, and REL each had positive associations with work satisfaction in simple linear regressions, only AUT had a significant association with work satisfaction when the 
   other variables were controlled for. This means the most important predictor of work satisfaction is AUT.
+  ![](SimpleLinearRegression.png)
+  
 ![image_alt]([)](https://github.com/MbaliMabaso/Basic_Pychological_Need_Satisfaction_And_Work_Satisfaction/blob/a4c52e73d7f83a2ab424d8c0ae28d06380963d0e/SimpleLinearRegression.png)
 ![image_alt]([)]([https://github.com/MbaliMabaso/Basic_Pychological_Need_Satisfaction_And_Work_Satisfaction/blob/470a52d486555374f452963eeeb7e5ce36e655ef/MultipleLinearRegression.png](https://github.com/MbaliMabaso/Basic_Pychological_Need_Satisfaction_And_Work_Satisfaction/blob/151d771171eecf202a7f3028f509ae7bd5cd7174/MultipleRegression.png))
 - Age did not moderate the association between the satisfaction of basic psychological needs and work satisfaction.
